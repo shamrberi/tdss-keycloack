@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Implementation-Title: Keycloak REST Services
+Implementation-Version: 6.0.1
+Java-Version: 1.8.0_211
+Built-By: Sham
+Scm-Connection: scm:git:git://github.com/keycloak/keycloak.git/keycloa
+ k-services
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: Keycloak REST Services
+Implementation-Vendor-Id: org.keycloak
+Java-Vendor: Oracle Corporation
+Os-Name: Windows 10
+Scm-Url: https://github.com/keycloak/keycloak/tree/master/keycloak-ser
+ vices/
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 10.0
+Scm-Revision: 
+Build-Jdk: 1.8.0_211
+Specification-Version: 6.0
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://keycloak.org/keycloak-services
+
